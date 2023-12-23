@@ -1,6 +1,5 @@
-# Welcome to Phuoc-Loc Repository
+# Welcome to FlightManagementSystem Repository
 
 ### You will find in this repo the following stuff:
-* The Java source code used to manage flight system
-* The C source code used to make Caro game
+* The Java source code used to manage the flight system
 * ...
